@@ -9,7 +9,7 @@
 # Additional Authors:
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Author: YOUR-GITHUB-USERNAME
+# Author: anannya2510k
 
 # Input:
 # p, principal amount
